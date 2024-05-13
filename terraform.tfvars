@@ -105,10 +105,7 @@ dashboard = {
         type                 = "nrql"
       }
     }
-
-
   }
-
 }
 
 
